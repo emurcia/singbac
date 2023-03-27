@@ -8,11 +8,11 @@ Está hecho en php puro (estructurado monolítico)
 Para linux clonar todo el contenido del proyecto en la carpeta /var/www/html/ 
 
 Y sólo despues de restaurar la base de datos, colocar los datos de conexión en los siguientes 2 ficheros:
-- conexion/conexion.inc
+- conexion/conexion.inc: 
 En este archivo sólo colocar en nombre de la base de datos en la tercera línea.
 
 
-- conexion/conexion.php
+- conexion/conexion.php: 
 En este otro archivo en la línea 7 colocar los datos del usuario de la base de datos.
 
 

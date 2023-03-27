@@ -6,11 +6,13 @@ Está hecho en php puro (estructurado monolítico)
 - Mysql 5
 # Instalación
 
-- Para linux clonar todo el contenido del proyecto en la carpeta /var/www/html/ 
+Para linux clonar todo el contenido del proyecto en la carpeta /var/www/html/ 
 
 Y para correrlo visitar en el navegador: http://localhost/
 
-- Para windows es necesario descargar xampp, descargue del siguiente enlace:
+---------------------------------------------------------------------------------------
+
+Para windows es necesario descargar xampp, descargue del siguiente enlace:
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.40/xampp-windows-x64-5.6.40-1-VC11-installer.exe/download
 
 Luego de instalada la aplicación abrirla (XAMPP Control Panel) y encender APACHE y MYSQL (Click al botón start de cada uno)

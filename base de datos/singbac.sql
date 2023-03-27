@@ -282,7 +282,7 @@ CREATE TABLE `tab_contador` (
 --
 
 INSERT INTO `tab_contador` (`codigo`, `total`, `entrada_almacen`, `salida_almacen`, `servicio_bascula`, `id_empresa`, `reversion_entrada`, `reversion_salida`, `cierre_lote`, `num_lote`, `num_ajuste`) VALUES
-(1, 37284, 11411, 14127, 10851, 1, 175, 199, 332, 11, 211);
+(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1);
 
 -- --------------------------------------------------------
 

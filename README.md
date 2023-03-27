@@ -18,4 +18,5 @@ En este otro archivo en la línea 7 colocar los datos del usuario de la base de 
 
 # Información 
 La tabla **t_usuarios** agregar o quitar los usuarios que se consideren convenientes.
+
 La tabla **tab_menu** contiene todas las rutas a los formularios, no tocar de no ser necesario.

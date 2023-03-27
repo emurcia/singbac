@@ -1,9 +1,12 @@
 # Introducción
 Este es el código fuente completo de aplicación SINGBAC (Sistema de Inventario de Granos Básicos).
 Está hecho en php puro (estructurado monolítico)
+
 # Requisitos
 - PHP 5.6
 - Mysql 5
+
+
 # Instalación
 
 Para linux clonar todo el contenido del proyecto en la carpeta /var/www/html/ 

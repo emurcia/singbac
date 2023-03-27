@@ -21,4 +21,4 @@ La tabla **t_usuarios** agregar o quitar los usuarios que se consideren convenie
 
 La tabla **tab_menu** contiene todas las rutas a los formularios, no tocar de no ser necesario.
 
-La ubicación de todos los formularios, pantallas, están en la carpeta **form**
+La ubicación de todos los formularios, pantallas, están en la carpeta **forms**
